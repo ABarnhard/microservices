@@ -1,0 +1,23 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "description": "Examples of building simple microservices using Node.js, Redis, and Hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABarnhard/microservices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ABarnhard/microservices/issues"
+  },
+  "homepage": "https://github.com/ABarnhard/microservices#readme",
+  "dependencies": {
+    "hapi": "^11.1.1",
+    "redis": "^2.3.0"
+  }
+}
